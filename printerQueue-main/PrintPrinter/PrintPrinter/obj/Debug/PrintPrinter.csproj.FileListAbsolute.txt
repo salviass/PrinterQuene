@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\bin\Debug\PrintPrinter.exe
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\bin\Debug\PrintPrinter.pdb
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\obj\Debug\PrintPrinter.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\obj\Debug\PrintPrinter.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\obj\Debug\PrintPrinter.exe
+C:\Users\User\RiderProjects\PrintPrinter\PrintPrinter\obj\Debug\PrintPrinter.pdb
